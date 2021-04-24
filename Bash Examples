@@ -1,0 +1,24 @@
+$* and $@ Difference // Command Line parameters
+https://unix.stackexchange.com/questions/129072/whats-the-difference-between-and
+
+
+Quick Linux Walkthrough - Basics
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+
+
+
+$ls -l | grep "Aug" | sort +4n
+-rw-rw-r--  1 carol doc      1605 Aug 23 07:35 macros
+-rw-rw-r--  1 john  doc      2488 Aug 15 10:51 intro
+-rw-rw-rw-  1 john  doc      8515 Aug  6 15:30 ch07
+-rw-rw-rw-  1 john  doc     11008 Aug  6 14:10 ch02
+$
+This pipe sorts all files in your directory modified in August by the order of size, 
+and prints them on the terminal screen. The sort option +4n skips four fields (fields are separated by blanks) then sorts the lines in numeric order
+
+
+
+https://www.cyberciti.biz/faq/bash-scripting-using-awk/
+
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+
