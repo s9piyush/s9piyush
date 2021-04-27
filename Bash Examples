@@ -16,7 +16,7 @@ $
 This pipe sorts all files in your directory modified in August by the order of size, 
 and prints them on the terminal screen. The sort option +4n skips four fields (fields are separated by blanks) then sorts the lines in numeric order
 
-
+https://www.youtube.com/watch?v=yCTnihfbPCo&ab_channel=ZachGollwitzer
 
 https://www.cyberciti.biz/faq/bash-scripting-using-awk/
 
